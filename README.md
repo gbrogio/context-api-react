@@ -5,8 +5,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 ## 📕 Features (never bugs):
-[X] LogIn with google provider
-[X] LogOut 😐
+[x] LogIn with google provider
+[x] LogOut 😐
 [ ] LGPD respect 😐
 
 ## ℹ For more infos:
