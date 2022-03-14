@@ -5,11 +5,11 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 ## 📕 Features (never bugs):
-[x] LogIn with google provider
-[x] LogOut 😐
-[ ] LGPD respect 😐
+- [x] LogIn with google provider
+- [x] LogOut 😐
+- [ ] LGPD respect 😐
 
 ## ℹ For more infos:
-(React Context Api ->)[https://pt-br.reactjs.org/docs/context.html]
+[React Context Api ->](https://pt-br.reactjs.org/docs/context.html)
 
 # 🤗 GOODBY EVERYONE 💜
